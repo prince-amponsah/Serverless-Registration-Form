@@ -69,12 +69,13 @@ This guide walks through creating a serverless web application using **AWS Lambd
 
 ```plaintext
 project-folder/
-│-- index.html
-│-- script.js
-│-- lambda_function.py
+│-- Frondend/index.html
+│-- Frondend/script.js
+│-- Lambda/lambda_function.py
 ```
 
----
+
+Credit: https://github.com/yeshwanthlm
 
 ## Notes
 
